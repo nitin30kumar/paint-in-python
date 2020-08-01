@@ -1,4 +1,4 @@
-# Simple Paint :paint: 
+# Simple Paint :art: 
 
 > This is a simple paint you see in Windows PAINT , where you can make your canvas
 
