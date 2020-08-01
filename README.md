@@ -4,7 +4,7 @@
 
 ## How to use it ? :gear:
 
-- [ ] Install tkinter library :paint: 
+- [ ] Install tkinter library :art: 
 
 > pip install tkinter
 
